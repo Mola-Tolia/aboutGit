@@ -32,6 +32,7 @@ git fetch 拉取远程所有分支
 git fetch 分支名 拉取远程指定分支
 git remote 查看仓库信息
 git remote -v 查看仓库信息，可以查看更详细的权限信息
+git remote add origin 远程仓库地址 连接远程仓库
 
 git restore [file] 将不在暂存区的文件撤销更改
 git restore --staged [file] 将提交到暂存区的文件恢复到工作区
